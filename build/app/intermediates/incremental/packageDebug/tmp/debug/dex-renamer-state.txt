@@ -1,0 +1,4 @@
+#Wed May 04 17:16:05 IST 2022
+base.0=/media/parth/DATA9/Rilpa/Flutter/calculater/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
